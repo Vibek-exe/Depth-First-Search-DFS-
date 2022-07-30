@@ -1,7 +1,13 @@
-# Depth-First-Search-DFS-
+# Depth-First-Search-DFS-Python
 Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures.
+#DFS Python Implementation
 
-#DFS Python Implementation 
+
+#Hand Written Notes 
 
 
-(https://github.com/Vibek-exe/Depth-First-Search-DFS-/files/9225793/dfs1.txt)
+
+
+
+![DFS](https://user-images.githubusercontent.com/78261707/181902896-5c14ad0a-74bf-4efe-9869-6d11923d79ef.jpg)
+
